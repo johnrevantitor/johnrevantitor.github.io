@@ -7158,29 +7158,3 @@ overflow-y: scroll;
 border-radius: 5px;
 }
 
-.fd-fade1 {
-  width: 240px;
-  height: 180px;
-  background-image: url(http://i.imgur.com/l1YVUSu.jpg)
-}
-.fd-fade2 {
-  width: 240px;
-  height: 160px;
-  background-image: url(http://i.imgur.com/l1YVUSu.jpg)
-}
-.fd-fade3 {
-  width: 240px;
-  height: 152px;
-  background-image: url(http://i.imgur.com/6XO7ueG.jpg)
-}
-
-/*hide all the images, so background image shows*/
-img.fd-img1 {
-  display: none;
-}
-img.fd-img2 {
-  display: none;
-}
-img.fd-img3 {
-  display: none;
-}
