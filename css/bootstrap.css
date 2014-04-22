@@ -5969,6 +5969,7 @@ button.close {
 .modal.in .modal-dialog {
   -webkit-transform: translate(0, 0);
       -ms-transform: translate(0, 0);
+	-moz-transform: translate(0, 0);
           transform: translate(0, 0);
 }
 
